@@ -1,2 +1,2 @@
 # DreamHelper
-version: 0.3beta
+version: 0.4beta
