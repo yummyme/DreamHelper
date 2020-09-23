@@ -2,7 +2,7 @@
 version: 0.4beta
 
 
-Требования:
+# Требования:
 
 moonloader 026+(https://www.blast.hk/threads/13305/)
 
