@@ -1,6 +1,6 @@
 # DreamHelper
 version: 0.4beta
-Требования:
-moonloader 026+
-DearImGui
-SAMP.lua(SAMP Events)
+Требования:\n
+moonloader 026+\n
+DearImGui\n
+SAMP.lua(SAMP Events)\n
